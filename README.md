@@ -18,9 +18,9 @@ And
 ```
 pip install docx2txt
 ```
-Clone my Repo into your Machine and Simply Run the Code!**
+**Clone my Repo into your Machine and Simply Run the Code!**
 ```
-[GITHUB REPO](https://github.com/HamzaZaidiX/Chrome-Browser-Clone)
+https://github.com/HamzaZaidiX/Chrome-Browser-Clone
 ````
 
 ## Licence:
