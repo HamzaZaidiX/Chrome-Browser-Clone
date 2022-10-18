@@ -9,7 +9,7 @@ Chrome Browser Clone By Python
 
 ## Installation:
 
-**You have to install two Libraries only and Clone my Repo into your Machine and Simply Run the Code!**
+**You have to install two Libraries only!
 
 ```
 pip install PyQt5
@@ -18,6 +18,10 @@ And
 ```
 pip install docx2txt
 ```
+Clone my Repo into your Machine and Simply Run the Code!**
+```
+[GITHUB REPO](https://github.com/HamzaZaidiX/Chrome-Browser-Clone)
+````
 
 ## Licence:
 
